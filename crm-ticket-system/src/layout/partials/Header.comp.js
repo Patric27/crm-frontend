@@ -11,7 +11,7 @@ export const Header = () =>{
     expand="md"
     >
         <Navbar.Brand>
-            <img src={logo} alt="logo" width="50px"/>
+            <img src={logo} alt="logo" width="60px"/>
         </Navbar.Brand>
         <Navbar.Toggle
         area-controls="basic-navbar-nav" />
