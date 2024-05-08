@@ -3,7 +3,24 @@
         "id":1,
         "subject": "issue with 3cx",
         "status": "Client response pending",
-        "addedAt": "2024-04-30"
+        "addedAt": "2024-04-30",
+        "history":[
+            {
+                "date": "24-5-10",
+                "message": "chammmmmmm",
+                "messageBy": "Client"
+            },
+            {
+                "date": "24-5-10",
+                "message": "chammmmmmm",
+                "messageBy": "Implementer"
+            },
+            {
+                "date": "24-5-10",
+                "message": "chammmmmmm",
+                "messageBy": "Client"
+            }
+        ]
     },
     {
         "id":2,

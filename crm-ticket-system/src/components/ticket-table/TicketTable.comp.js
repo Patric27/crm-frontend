@@ -4,7 +4,7 @@ import { PropTypes } from 'prop-types';
 
 export const TicketTable = ({ tickets }) => {
     
-     return ( 
+    return ( 
         <Table striped bordered hover>
             <thead>
                 <tr>
